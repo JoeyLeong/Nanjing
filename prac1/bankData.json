@@ -1,0 +1,59 @@
+{
+    "latticePoint": [{
+          "id": 36021,
+          "name": "南京华侨路支行",
+          "longtitude": 118.784384, 
+          "latitude": 32.053432
+        },
+        {
+          "id": 36011,  
+          "name": "南京大光路支行",
+          "longtitude": 118.811549,
+          "latitude": 32.031543
+        },
+        {
+          "id": 36091,
+          "name": "江北新区支行",
+          "longtitude": 118.653927, 
+          "latitude": 32.071927
+        }],
+    "communityBranch": [{
+        "addr": "南京市建邺区怡康街8号127室",
+        "name": "南京涟城社区支行",
+        "longtitude": 118.762842, 
+        "latitude": 32.016117
+      },
+      {
+        "addr": "南京市建邺区凤栖苑12号-3",  
+        "name": "南京凤栖苑社区支行",
+        "longtitude": 118.75136,
+        "latitude": 32.034036
+      },
+      {
+        "addr": "南京市江宁区新亭西路105号14-2",
+        "name": "南京新亭路社区支行",
+        "longtitude": 118.847717, 
+        "latitude": 31.947882
+      }],
+    "ATM": [{
+        "id": "_C0427",
+        "addr": "南京市鼓楼区四卫头92号",
+        "longtitude": 118.775267, 
+        "latitude": 32.074239
+      },
+      {
+        "id": "_C0538",  
+        "addr": "南京市建邺区月安街33-7号",
+        "longtitude": 118.736055,
+        "latitude": 32.025963
+      },
+      {
+        "id": "_C0665", 
+        "addr": "南京市江宁区新亭西路105号14-2",
+        "longtitude": 118.847717, 
+        "latitude": 31.947882
+      }]
+}
+     {lat:32.074239, lng:118.775267, count: Math.random()},
+    {lat:32.025963, lng:118.736055, count: Math.random()},
+    {lat:31.947882, lng:118.847717, count: Math.random()},
